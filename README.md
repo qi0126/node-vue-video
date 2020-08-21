@@ -7,7 +7,7 @@
 ## 运行
 
 ```
-git clone https://github.com/wclimb/vue-video.git
+git clone https://github.com/qi0126/node-vue-video.git
 
 cd vue-video
 
