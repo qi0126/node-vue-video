@@ -1,20 +1,3 @@
-# 写在前面（有问题可以加qq群:725165362）
-
-  该项目有两个版本，vue和react
-  
-> 前端项目地址 https://github.com/wclimb/vue-video    
-> 前端预览 http://video.wclimb.site
-
-> 后端项目地址 https://github.com/wclimb/video-admin  
-> 后台管理 http://vue.wclimb.site
-
-> API接口地址 https://github.com/wclimb/video-admin/blob/master/API.md (未更新，接口现在重写过)
-
-react版现在已经完成
-
-> react版项目地址 https://github.com/wclimb/react-video  
-> react版预览 http://react.wclimb.site
-
 ## 技术栈(Vue2.js + Node.js 全栈项目)
 
 > 由于页面不是很多，vuex用的不多，关键掌握怎么实现就好了
@@ -111,12 +94,7 @@ GitHub: [管理后台](https://github.com/wclimb/video-admin)
 
 ![](http://www.wclimb.site/cdn/admin.gif)
 
-## 有问题欢迎反馈
 
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
-
-* 邮件(875246904#qq.com, 把#换成@)
-* QQ: 875246904
 
 
 ## 目录结构
